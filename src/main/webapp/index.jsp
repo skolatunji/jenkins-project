@@ -24,5 +24,8 @@
 <h1 style="font-weight: bold; color: burgundy; font-size: 30px; text-align: center;">
     We have setup Nexus Server Successfully!!!
 </h1>
+<h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
+    We are saving artifacts so that we can roll back easily if need be!!!
+</h1>
 </body>
 </html>
